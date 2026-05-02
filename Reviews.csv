@@ -1,0 +1,501 @@
+Id,ProductId,UserId,ProfileName,HelpfulnessNumerator,HelpfulnessDenominator,Score,Time,Summary,Text
+1,B0019CW0HE,A1000XYZ,fitnessfreak,3,8,2,1303862400,Not great,Below average quality. Arrived slightly damaged. Won't be buying again.
+2,B001FA1NOU,A1048XYZ,foodnerd,2,3,4,1303948800,Pretty good,Really good product. Ships quickly. Only minor complaint is the packaging.
+3,B001GVISJM,A1063XYZ,snackattack42,7,10,5,1304035200,Highly recommend,Amazing quality for the price. Great for the whole family. Super fast delivery too.
+4,B00171APVA,A1101XYZ,snacklover99,8,9,5,1304121600,Best ever!,Perfect! Great for the whole family. My whole family loves it. Won't buy anything else.
+5,B007VTCCL2,A1115XYZ,healthyeats2020,11,15,4,1304208000,Good buy,Really good product. Ships quickly. Only minor complaint is the packaging.
+6,B007VTCCL2,A1132XYZ,nutritionnerve,2,6,1,1304294400,Awful,Terrible product. Total rip-off. Complete waste of money.
+7,B002GTTXGE,A1151XYZ,teatime_tina,1,6,5,1304380800,Love it!,Best grocery I've ever tried. Worth every penny. Five stars all the way!
+8,B007VTCCL2,A1166XYZ,healthyeats2020,8,11,3,1304467200,Decent enough,Decent product but nothing special. Packaging was plain. Expected a bit more.
+9,B002GTTXGE,A1207XYZ,teatime_tina,20,20,4,1304553600,Good buy,Great taste and quality. Freshness was good. Would buy again.
+10,B0019CW0HE,A1246XYZ,sweettoothsally,8,13,2,1304640000,Probably won't reorder,Mediocre at best. Arrived slightly damaged. Save your money.
+11,B001GVISJM,A1291XYZ,baking_betty,10,13,3,1304726400,It's okay,It's okay. Flavor is average. Probably won't repurchase.
+12,B00813GRG4,A1309XYZ,foodnerd,12,17,3,1304812800,Decent enough,It's okay. It arrived on time. Probably won't repurchase.
+13,B000LQOCH0,A1339XYZ,sweettoothsally,18,21,3,1304899200,Not bad,Middle of the road. Okay for the price. Works fine but nothing exciting.
+14,B006WZJ2TK,A1377XYZ,petparentmike,1,1,4,1304985600,Pretty good,Good value for money. Good but not perfect. Will probably reorder.
+15,B0019CW0HE,A1387XYZ,amazon_shopper,12,16,2,1305072000,Probably won't reorder,Disappointed with this purchase. Overpriced for what it is. Not what I expected.
+16,B001GVISJM,A1417XYZ,snackattack42,8,13,3,1305158400,So-so,Decent product but nothing special. Flavor is average. Expected a bit more.
+17,B00813GRG4,A1439XYZ,coffeejunkie,16,17,3,1305244800,Not bad,Decent product but nothing special. Nothing special about it. Expected a bit more.
+18,B001FA1NOU,A1472XYZ,pantrypal,4,6,2,1305331200,Not great,Poor quality for the price. Overpriced for what it is. Expected much better.
+19,B000LQOCH0,A1521XYZ,kitchenqueen,15,15,4,1305417600,Good buy,Solid product overall. The flavor is quite good. Just a bit pricey.
+20,B001FA1NOU,A1529XYZ,pantrypal,18,18,4,1305504000,Really liked it,Really good product. Packaging could be improved. Only minor complaint is the packaging.
+21,B001EQ54ZS,A1535XYZ,healthyeats2020,15,19,4,1305590400,Really liked it,Great taste and quality. Good but not perfect. Would buy again.
+22,B00171APVA,A1546XYZ,wholesome_will,6,11,4,1305676800,Solid choice,Great taste and quality. Ships quickly. Would buy again.
+23,B006WZJ2TK,A1566XYZ,teatime_tina,3,4,5,1305763200,Highly recommend,Amazing quality for the price. Ships fast and well-packaged. Super fast delivery too.
+24,B00813GRG4,A1581XYZ,foodnerd,7,7,4,1305849600,Solid choice,Great taste and quality. Good but not perfect. Would buy again.
+25,B001EQ54ZS,A1586XYZ,sweettoothsally,2,6,5,1305936000,Best ever!,Absolutely love this product! The flavor is incredible. Will definitely buy again.
+26,B00171APVA,A1602XYZ,organicmom,18,21,5,1306022400,Amazing product,Best grocery I've ever tried. Worth every penny. Five stars all the way!
+27,B007VTCCL2,A1618XYZ,amazon_shopper,13,15,4,1306108800,Pretty good,Really good product. Packaging could be improved. Only minor complaint is the packaging.
+28,B006WZJ2TK,A1646XYZ,foodcritic_jay,10,10,4,1306195200,Almost perfect,Really good product. The flavor is quite good. Only minor complaint is the packaging.
+29,B006K2ZZ7K,A1662XYZ,nutritionnerve,8,11,3,1306281600,Average,"Not bad, not great. Packaging was plain. Met basic expectations."
+30,B002GTTXGE,A1678XYZ,nutritionnerve,20,24,5,1306368000,Love it!,Absolutely love this product! Worth every penny. Will definitely buy again.
+31,B00813GRG4,A1679XYZ,sweettoothsally,15,16,5,1306454400,Highly recommend,Perfect! Great for the whole family. My whole family loves it. Won't buy anything else.
+32,B001FA1NOU,A1705XYZ,crunchmaster,14,16,1,1306540800,Do not buy,Disgusting quality. Tasted stale. Returned immediately.
+33,B001EQ54ZS,A1733XYZ,snackattack42,9,10,5,1306627200,Excellent!,Best grocery I've ever tried. Ships fast and well-packaged. Five stars all the way!
+34,B00CFM0P7W,A1737XYZ,foodcritic_jay,18,21,5,1306713600,Love it!,Absolutely love this product! Perfectly fresh. Will definitely buy again.
+35,B001FA1NOU,A1770XYZ,coffeejunkie,5,5,5,1306800000,Love it!,Amazing quality for the price. The flavor is incredible. Super fast delivery too.
+36,B00813GRG4,A1809XYZ,sweettoothsally,7,11,5,1306886400,Amazing product,Absolutely love this product! Ships fast and well-packaged. Will definitely buy again.
+37,B001E4KFG0,A1848XYZ,amazon_shopper,10,12,5,1306972800,Amazing product,Amazing quality for the price. Worth every penny. Super fast delivery too.
+38,B0019CW0HE,A1862XYZ,sweettoothsally,20,22,5,1307059200,Excellent!,Perfect! Perfectly fresh. My whole family loves it. Won't buy anything else.
+39,B0026KXU2Q,A1892XYZ,healthyeats2020,18,18,5,1307145600,Amazing product,Perfect! The flavor is incredible. My whole family loves it. Won't buy anything else.
+40,B001GVISJM,A1897XYZ,fitnessfreak,7,9,3,1307232000,It's okay,Average quality. Packaging was plain. There are better options out there.
+41,B000LQOCH0,A1916XYZ,snackattack42,0,5,4,1307318400,Solid choice,Solid product overall. Freshness was good. Just a bit pricey.
+42,B00171APVA,A1952XYZ,gourmet_granny,3,8,5,1307404800,Love it!,Exceeded my expectations. Great for the whole family. Highly recommend to everyone.
+43,B000LQOCH0,A1988XYZ,wholesome_will,20,22,3,1307491200,Average,Average quality. Packaging was plain. There are better options out there.
+44,B003B3OOPA,A2021XYZ,foodcritic_jay,1,1,3,1307577600,Not bad,"Not bad, not great. Flavor is average. Met basic expectations."
+45,B007VTCCL2,A2043XYZ,fitnessfreak,13,17,2,1307664000,Expected more,Mediocre at best. Arrived slightly damaged. Save your money.
+46,B00813GRG4,A2044XYZ,petparentmike,18,22,1,1307750400,Do not buy,Terrible product. Total rip-off. Complete waste of money.
+47,B006WZJ2TK,A2054XYZ,pantrypal,6,11,2,1307836800,Below average,Disappointed with this purchase. Took too long to ship. Not what I expected.
+48,B0019CW0HE,A2070XYZ,snackattack42,7,8,2,1307923200,Not great,Poor quality for the price. Not fresh at all. Expected much better.
+49,B001FA1NOU,A2082XYZ,coffeejunkie,8,9,4,1308009600,Really liked it,Good value for money. Freshness was good. Will probably reorder.
+50,B00813GRG4,A2127XYZ,foodcritic_jay,14,16,4,1308096000,Really liked it,Great taste and quality. Ships quickly. Would buy again.
+51,B002GTTXGE,A2147XYZ,sweettoothsally,12,14,5,1308182400,Excellent!,Absolutely love this product! Great for the whole family. Will definitely buy again.
+52,B002GTTXGE,A2165XYZ,fitnessfreak,17,19,1,1308268800,Awful,Absolutely awful. Took weeks to arrive. Nothing like the description.
+53,B00813GRG4,A2167XYZ,fitnessfreak,1,1,5,1308355200,Best ever!,Amazing quality for the price. Great for the whole family. Super fast delivery too.
+54,B006WZJ2TK,A2206XYZ,baking_betty,3,6,4,1308441600,Solid choice,Solid product overall. Ships quickly. Just a bit pricey.
+55,B006K2ZZ7K,A2243XYZ,amazon_shopper,6,8,3,1308528000,So-so,Middle of the road. Flavor is average. Works fine but nothing exciting.
+56,B00813GRG4,A2271XYZ,baking_betty,9,13,5,1308614400,Love it!,Exceeded my expectations. Worth every penny. Highly recommend to everyone.
+57,B0019CW0HE,A2291XYZ,crunchmaster,6,9,4,1308700800,Really liked it,Solid product overall. Freshness was good. Just a bit pricey.
+58,B006WZJ2TK,A2334XYZ,coffeejunkie,12,16,5,1308787200,Best ever!,Amazing quality for the price. Worth every penny. Super fast delivery too.
+59,B00171APVA,A2335XYZ,amazon_shopper,14,17,3,1308873600,Not bad,Middle of the road. Okay for the price. Works fine but nothing exciting.
+60,B0019CW0HE,A2364XYZ,tastyreviewer,16,21,3,1308960000,Not bad,Decent product but nothing special. Packaging was plain. Expected a bit more.
+61,B00CFM0P7W,A2405XYZ,sweettoothsally,4,4,4,1309046400,Really liked it,Great taste and quality. Freshness was good. Would buy again.
+62,B006K2ZZ7K,A2408XYZ,wholesome_will,20,24,5,1309132800,Highly recommend,Perfect! The flavor is incredible. My whole family loves it. Won't buy anything else.
+63,B001EQ54ZS,A2421XYZ,tastyreviewer,20,25,5,1309219200,Excellent!,Best grocery I've ever tried. Ships fast and well-packaged. Five stars all the way!
+64,B001FA1NOU,A2422XYZ,gourmet_granny,16,19,5,1309305600,Excellent!,Best grocery I've ever tried. Ships fast and well-packaged. Five stars all the way!
+65,B001GVISJM,A2426XYZ,gourmet_granny,16,20,3,1309392000,Decent enough,It's okay. Nothing special about it. Probably won't repurchase.
+66,B0026KXU2Q,A2465XYZ,nutritionnerve,17,20,5,1309478400,Highly recommend,Amazing quality for the price. Worth every penny. Super fast delivery too.
+67,B001EQ54ZS,A2476XYZ,nutritionnerve,16,19,5,1309564800,Best ever!,Best grocery I've ever tried. Perfectly fresh. Five stars all the way!
+68,B006K2ZZ7K,A2517XYZ,healthyeats2020,10,12,3,1309651200,Not bad,It's okay. It arrived on time. Probably won't repurchase.
+69,B00813GRG4,A2552XYZ,sweettoothsally,2,5,2,1309737600,Not great,Below average quality. Not fresh at all. Won't be buying again.
+70,B0026KXU2Q,A2579XYZ,amazon_shopper,12,16,4,1309824000,Almost perfect,Great taste and quality. The flavor is quite good. Would buy again.
+71,B001E4KFG0,A2624XYZ,foodnerd,11,13,5,1309910400,Love it!,Perfect! Ships fast and well-packaged. My whole family loves it. Won't buy anything else.
+72,B006WZJ2TK,A2673XYZ,amazon_shopper,7,10,5,1309996800,Amazing product,Amazing quality for the price. Worth every penny. Super fast delivery too.
+73,B00171APVA,A2688XYZ,snacklover99,5,8,4,1310083200,Almost perfect,Very happy with this purchase. Ships quickly. Almost perfect.
+74,B00CFM0P7W,A2697XYZ,crunchmaster,2,7,4,1310169600,Pretty good,Solid product overall. Good but not perfect. Just a bit pricey.
+75,B000LQOCH0,A2725XYZ,coffeejunkie,10,11,5,1310256000,Highly recommend,Exceeded my expectations. The flavor is incredible. Highly recommend to everyone.
+76,B0026KXU2Q,A2755XYZ,crunchmaster,2,5,4,1310342400,Good buy,Good value for money. Freshness was good. Will probably reorder.
+77,B001EQ54ZS,A2757XYZ,teatime_tina,0,1,4,1310428800,Pretty good,Really good product. Packaging could be improved. Only minor complaint is the packaging.
+78,B002GTTXGE,A2770XYZ,petparentmike,3,7,1,1310515200,Awful,Do not buy! Packaging was destroyed. Arrived damaged and tasted awful.
+79,B003B3OOPA,A2784XYZ,teatime_tina,3,4,5,1310601600,Amazing product,Amazing quality for the price. Great for the whole family. Super fast delivery too.
+80,B00813GRG4,A2804XYZ,pantrypal,6,6,4,1310688000,Almost perfect,Good value for money. Good but not perfect. Will probably reorder.
+81,B001EQ54ZS,A2842XYZ,sweettoothsally,3,7,5,1310774400,Amazing product,Exceeded my expectations. The flavor is incredible. Highly recommend to everyone.
+82,B0026KXU2Q,A2845XYZ,teatime_tina,0,3,4,1310860800,Good buy,Solid product overall. The flavor is quite good. Just a bit pricey.
+83,B00813GRG4,A2877XYZ,teatime_tina,5,10,4,1310947200,Almost perfect,Great taste and quality. Ships quickly. Would buy again.
+84,B0019CW0HE,A2911XYZ,snackattack42,18,20,3,1311033600,Decent enough,"Not bad, not great. Nothing special about it. Met basic expectations."
+85,B002GTTXGE,A2932XYZ,healthyeats2020,14,18,3,1311120000,Average,"Not bad, not great. It arrived on time. Met basic expectations."
+86,B0019CW0HE,A2972XYZ,snacklover99,15,16,4,1311206400,Really liked it,Very happy with this purchase. Ships quickly. Almost perfect.
+87,B007VTCCL2,A2995XYZ,fitnessfreak,0,4,3,1311292800,So-so,Average quality. Okay for the price. There are better options out there.
+88,B00813GRG4,A3008XYZ,amazon_shopper,15,20,3,1311379200,Average,Middle of the road. Nothing special about it. Works fine but nothing exciting.
+89,B003B3OOPA,A3054XYZ,snacklover99,12,17,4,1311465600,Really liked it,Very happy with this purchase. The flavor is quite good. Almost perfect.
+90,B00171APVA,A3070XYZ,teatime_tina,11,14,5,1311552000,Amazing product,Amazing quality for the price. Ships fast and well-packaged. Super fast delivery too.
+91,B001GVISJM,A3118XYZ,nutritionnerve,7,7,4,1311638400,Good buy,Very happy with this purchase. Freshness was good. Almost perfect.
+92,B006K2ZZ7K,A3165XYZ,snackattack42,15,17,3,1311724800,Average,It's okay. Packaging was plain. Probably won't repurchase.
+93,B00CFM0P7W,A3212XYZ,kitchenqueen,6,8,5,1311811200,Love it!,Exceeded my expectations. Worth every penny. Highly recommend to everyone.
+94,B0026KXU2Q,A3227XYZ,snacklover99,1,1,2,1311897600,Below average,Below average quality. Overpriced for what it is. Won't be buying again.
+95,B00171APVA,A3263XYZ,petparentmike,18,20,5,1311984000,Love it!,Absolutely love this product! Ships fast and well-packaged. Will definitely buy again.
+96,B003B3OOPA,A3294XYZ,coffeejunkie,3,3,4,1312070400,Almost perfect,Very happy with this purchase. The flavor is quite good. Almost perfect.
+97,B003B3OOPA,A3320XYZ,foodcritic_jay,9,9,1,1312156800,Very disappointed,Do not buy! Packaging was destroyed. Arrived damaged and tasted awful.
+98,B00813GRG4,A3336XYZ,amazon_shopper,7,11,4,1312243200,Solid choice,Solid product overall. Good but not perfect. Just a bit pricey.
+99,B003B3OOPA,A3361XYZ,pantrypal,18,22,5,1312329600,Best ever!,Perfect! Worth every penny. My whole family loves it. Won't buy anything else.
+100,B00CFM0P7W,A3365XYZ,gourmet_granny,2,3,5,1312416000,Best ever!,Best grocery I've ever tried. Great for the whole family. Five stars all the way!
+101,B000LQOCH0,A3381XYZ,coffeejunkie,19,22,4,1312502400,Almost perfect,Good value for money. The flavor is quite good. Will probably reorder.
+102,B001E4KFG0,A3400XYZ,pantrypal,8,13,3,1312588800,Average,Decent product but nothing special. Nothing special about it. Expected a bit more.
+103,B0019CW0HE,A3438XYZ,organicmom,7,12,5,1312675200,Amazing product,Absolutely love this product! Ships fast and well-packaged. Will definitely buy again.
+104,B001FA1NOU,A3448XYZ,petparentmike,9,13,3,1312761600,Average,Decent product but nothing special. Flavor is average. Expected a bit more.
+105,B002GTTXGE,A3496XYZ,pantrypal,9,14,4,1312848000,Almost perfect,Really good product. Ships quickly. Only minor complaint is the packaging.
+106,B00171APVA,A3522XYZ,tastyreviewer,1,4,4,1312934400,Solid choice,Really good product. Ships quickly. Only minor complaint is the packaging.
+107,B0026KXU2Q,A3570XYZ,snacklover99,18,18,5,1313020800,Amazing product,Best grocery I've ever tried. The flavor is incredible. Five stars all the way!
+108,B0019CW0HE,A3619XYZ,foodnerd,16,21,5,1313107200,Highly recommend,Best grocery I've ever tried. The flavor is incredible. Five stars all the way!
+109,B001FA1NOU,A3648XYZ,foodnerd,15,17,3,1313193600,It's okay,"Not bad, not great. Nothing special about it. Met basic expectations."
+110,B0026KXU2Q,A3675XYZ,gourmet_granny,15,17,3,1313280000,Decent enough,Average quality. Packaging was plain. There are better options out there.
+111,B006WZJ2TK,A3718XYZ,snackattack42,10,12,5,1313366400,Love it!,Perfect! The flavor is incredible. My whole family loves it. Won't buy anything else.
+112,B00813GRG4,A3739XYZ,crunchmaster,14,17,5,1313452800,Amazing product,Absolutely love this product! Worth every penny. Will definitely buy again.
+113,B006K2ZZ7K,A3743XYZ,wholesome_will,6,8,4,1313539200,Pretty good,Good value for money. Ships quickly. Will probably reorder.
+114,B000LQOCH0,A3779XYZ,nutritionnerve,20,24,5,1313625600,Love it!,Absolutely love this product! Ships fast and well-packaged. Will definitely buy again.
+115,B001EQ54ZS,A3795XYZ,snackattack42,2,3,2,1313712000,Probably won't reorder,Poor quality for the price. Flavor left a lot to be desired. Expected much better.
+116,B003B3OOPA,A3803XYZ,petparentmike,8,11,5,1313798400,Amazing product,Exceeded my expectations. Ships fast and well-packaged. Highly recommend to everyone.
+117,B003B3OOPA,A3834XYZ,snackattack42,19,23,3,1313884800,Average,"Not bad, not great. Packaging was plain. Met basic expectations."
+118,B001FA1NOU,A3882XYZ,healthyeats2020,16,18,2,1313971200,Below average,Mediocre at best. Took too long to ship. Save your money.
+119,B00171APVA,A3883XYZ,foodnerd,14,18,5,1314057600,Excellent!,Perfect! Worth every penny. My whole family loves it. Won't buy anything else.
+120,B0026KXU2Q,A3914XYZ,snackattack42,6,11,4,1314144000,Good buy,Good value for money. Ships quickly. Will probably reorder.
+121,B00CFM0P7W,A3930XYZ,amazon_shopper,12,15,4,1314230400,Almost perfect,Very happy with this purchase. The flavor is quite good. Almost perfect.
+122,B007VTCCL2,A3973XYZ,petparentmike,16,20,5,1314316800,Excellent!,Absolutely love this product! Ships fast and well-packaged. Will definitely buy again.
+123,B002GTTXGE,A3995XYZ,nutritionnerve,0,5,2,1314403200,Probably won't reorder,Poor quality for the price. Flavor left a lot to be desired. Expected much better.
+124,B006WZJ2TK,A4005XYZ,petparentmike,10,14,5,1314489600,Best ever!,Perfect! The flavor is incredible. My whole family loves it. Won't buy anything else.
+125,B006WZJ2TK,A4050XYZ,baking_betty,20,25,5,1314576000,Best ever!,Perfect! Worth every penny. My whole family loves it. Won't buy anything else.
+126,B003B3OOPA,A4099XYZ,foodcritic_jay,20,25,5,1314662400,Excellent!,Absolutely love this product! Worth every penny. Will definitely buy again.
+127,B006K2ZZ7K,A4118XYZ,amazon_shopper,5,10,5,1314748800,Highly recommend,Absolutely love this product! The flavor is incredible. Will definitely buy again.
+128,B001FA1NOU,A4138XYZ,baking_betty,11,14,1,1314835200,Do not buy,Worst purchase I've made on Amazon. Tasted stale. Zero stars if possible.
+129,B006K2ZZ7K,A4148XYZ,foodnerd,2,6,4,1314921600,Really liked it,Great taste and quality. Packaging could be improved. Would buy again.
+130,B00CFM0P7W,A4173XYZ,tastyreviewer,14,19,5,1315008000,Excellent!,Best grocery I've ever tried. Worth every penny. Five stars all the way!
+131,B003B3OOPA,A4190XYZ,snacklover99,5,5,3,1315094400,So-so,Average quality. Nothing special about it. There are better options out there.
+132,B0026KXU2Q,A4219XYZ,pantrypal,9,10,5,1315180800,Highly recommend,Exceeded my expectations. Ships fast and well-packaged. Highly recommend to everyone.
+133,B002GTTXGE,A4244XYZ,sweettoothsally,18,20,4,1315267200,Good buy,Solid product overall. Ships quickly. Just a bit pricey.
+134,B00171APVA,A4289XYZ,crunchmaster,1,5,1,1315353600,Very disappointed,Terrible product. Took weeks to arrive. Complete waste of money.
+135,B003B3OOPA,A4337XYZ,pantrypal,7,12,5,1315440000,Best ever!,Amazing quality for the price. Great for the whole family. Super fast delivery too.
+136,B00CFM0P7W,A4350XYZ,petparentmike,14,14,3,1315526400,Not bad,Decent product but nothing special. Flavor is average. Expected a bit more.
+137,B0026KXU2Q,A4388XYZ,healthyeats2020,5,6,5,1315612800,Highly recommend,Exceeded my expectations. Perfectly fresh. Highly recommend to everyone.
+138,B007VTCCL2,A4397XYZ,teatime_tina,5,7,4,1315699200,Good buy,Solid product overall. Good but not perfect. Just a bit pricey.
+139,B007VTCCL2,A4428XYZ,baking_betty,4,5,3,1315785600,It's okay,"Not bad, not great. Flavor is average. Met basic expectations."
+140,B001EQ54ZS,A4472XYZ,crunchmaster,12,12,5,1315872000,Love it!,Exceeded my expectations. Worth every penny. Highly recommend to everyone.
+141,B001GVISJM,A4489XYZ,teatime_tina,20,22,2,1315958400,Probably won't reorder,Poor quality for the price. Took too long to ship. Expected much better.
+142,B0019CW0HE,A4496XYZ,snacklover99,19,20,3,1316044800,Not bad,Middle of the road. Okay for the price. Works fine but nothing exciting.
+143,B00813GRG4,A4538XYZ,nutritionnerve,4,4,5,1316131200,Love it!,Perfect! Perfectly fresh. My whole family loves it. Won't buy anything else.
+144,B00171APVA,A4541XYZ,gourmet_granny,4,7,5,1316217600,Amazing product,Best grocery I've ever tried. The flavor is incredible. Five stars all the way!
+145,B0026KXU2Q,A4571XYZ,snackattack42,13,18,5,1316304000,Excellent!,Amazing quality for the price. Ships fast and well-packaged. Super fast delivery too.
+146,B002GTTXGE,A4578XYZ,amazon_shopper,6,9,4,1316390400,Good buy,Really good product. Freshness was good. Only minor complaint is the packaging.
+147,B006K2ZZ7K,A4607XYZ,gourmet_granny,1,4,5,1316476800,Best ever!,Amazing quality for the price. Perfectly fresh. Super fast delivery too.
+148,B006K2ZZ7K,A4625XYZ,nutritionnerve,0,0,5,1316563200,Amazing product,Best grocery I've ever tried. The flavor is incredible. Five stars all the way!
+149,B006K2ZZ7K,A4647XYZ,foodnerd,6,10,5,1316649600,Amazing product,Absolutely love this product! Great for the whole family. Will definitely buy again.
+150,B002GTTXGE,A4661XYZ,baking_betty,8,9,5,1316736000,Love it!,Amazing quality for the price. Great for the whole family. Super fast delivery too.
+151,B001GVISJM,A4670XYZ,coffeejunkie,0,2,3,1316822400,Average,Decent product but nothing special. Flavor is average. Expected a bit more.
+152,B00CFM0P7W,A4686XYZ,coffeejunkie,13,17,3,1316908800,Average,Decent product but nothing special. It arrived on time. Expected a bit more.
+153,B001EQ54ZS,A4694XYZ,nutritionnerve,3,6,1,1316995200,Very disappointed,Absolutely awful. Took weeks to arrive. Nothing like the description.
+154,B006K2ZZ7K,A4727XYZ,foodcritic_jay,20,20,5,1317081600,Highly recommend,Exceeded my expectations. Worth every penny. Highly recommend to everyone.
+155,B003B3OOPA,A4731XYZ,amazon_shopper,2,2,5,1317168000,Highly recommend,Perfect! The flavor is incredible. My whole family loves it. Won't buy anything else.
+156,B00CFM0P7W,A4752XYZ,petparentmike,17,22,2,1317254400,Expected more,Poor quality for the price. Took too long to ship. Expected much better.
+157,B006WZJ2TK,A4773XYZ,kitchenqueen,19,22,5,1317340800,Amazing product,Perfect! Perfectly fresh. My whole family loves it. Won't buy anything else.
+158,B007VTCCL2,A4780XYZ,snackattack42,7,10,5,1317427200,Highly recommend,Perfect! Great for the whole family. My whole family loves it. Won't buy anything else.
+159,B002GTTXGE,A4802XYZ,amazon_shopper,10,15,4,1317513600,Almost perfect,Very happy with this purchase. The flavor is quite good. Almost perfect.
+160,B0026KXU2Q,A4819XYZ,tastyreviewer,2,5,5,1317600000,Love it!,Absolutely love this product! The flavor is incredible. Will definitely buy again.
+161,B001EQ54ZS,A4826XYZ,petparentmike,17,21,5,1317686400,Amazing product,Absolutely love this product! Worth every penny. Will definitely buy again.
+162,B0019CW0HE,A4848XYZ,teatime_tina,19,21,2,1317772800,Below average,Disappointed with this purchase. Not fresh at all. Not what I expected.
+163,B00813GRG4,A4871XYZ,organicmom,3,5,4,1317859200,Really liked it,Good value for money. Packaging could be improved. Will probably reorder.
+164,B0026KXU2Q,A4907XYZ,fitnessfreak,17,21,2,1317945600,Probably won't reorder,Below average quality. Overpriced for what it is. Won't be buying again.
+165,B0019CW0HE,A4947XYZ,snacklover99,5,7,5,1318032000,Love it!,Exceeded my expectations. Worth every penny. Highly recommend to everyone.
+166,B007VTCCL2,A4992XYZ,baking_betty,4,8,3,1318118400,Average,Decent product but nothing special. It arrived on time. Expected a bit more.
+167,B006WZJ2TK,A5035XYZ,snacklover99,12,15,1,1318204800,Waste of money,Absolutely awful. Tasted stale. Nothing like the description.
+168,B0026KXU2Q,A5065XYZ,pantrypal,2,2,2,1318291200,Expected more,Poor quality for the price. Took too long to ship. Expected much better.
+169,B000LQOCH0,A5075XYZ,foodcritic_jay,13,16,5,1318377600,Highly recommend,Exceeded my expectations. The flavor is incredible. Highly recommend to everyone.
+170,B003B3OOPA,A5114XYZ,organicmom,13,13,4,1318464000,Good buy,Really good product. Good but not perfect. Only minor complaint is the packaging.
+171,B0019CW0HE,A5133XYZ,tastyreviewer,7,10,5,1318550400,Love it!,Exceeded my expectations. Worth every penny. Highly recommend to everyone.
+172,B001E4KFG0,A5172XYZ,pantrypal,9,11,1,1318636800,Do not buy,Do not buy! Packaging was destroyed. Arrived damaged and tasted awful.
+173,B001E4KFG0,A5180XYZ,amazon_shopper,17,22,4,1318723200,Almost perfect,Great taste and quality. Packaging could be improved. Would buy again.
+174,B001GVISJM,A5195XYZ,teatime_tina,13,13,4,1318809600,Pretty good,Good value for money. The flavor is quite good. Will probably reorder.
+175,B001FA1NOU,A5225XYZ,baking_betty,12,17,1,1318896000,Very disappointed,Disgusting quality. Total rip-off. Returned immediately.
+176,B006WZJ2TK,A5266XYZ,crunchmaster,19,22,3,1318982400,Average,Average quality. Flavor is average. There are better options out there.
+177,B001FA1NOU,A5311XYZ,amazon_shopper,18,21,4,1319068800,Almost perfect,Great taste and quality. The flavor is quite good. Would buy again.
+178,B00813GRG4,A5345XYZ,pantrypal,5,5,4,1319155200,Good buy,Great taste and quality. Freshness was good. Would buy again.
+179,B0019CW0HE,A5378XYZ,kitchenqueen,20,21,2,1319241600,Below average,Not impressed. Arrived slightly damaged. Packaging was damaged on arrival.
+180,B00813GRG4,A5394XYZ,organicmom,20,20,2,1319328000,Not great,Poor quality for the price. Arrived slightly damaged. Expected much better.
+181,B007VTCCL2,A5406XYZ,nutritionnerve,18,23,5,1319414400,Highly recommend,Amazing quality for the price. Worth every penny. Super fast delivery too.
+182,B00CFM0P7W,A5447XYZ,baking_betty,15,18,3,1319500800,It's okay,"Not bad, not great. Packaging was plain. Met basic expectations."
+183,B00171APVA,A5488XYZ,foodnerd,2,4,5,1319587200,Amazing product,Exceeded my expectations. The flavor is incredible. Highly recommend to everyone.
+184,B003B3OOPA,A5518XYZ,teatime_tina,19,23,1,1319673600,Terrible,Terrible product. Took weeks to arrive. Complete waste of money.
+185,B006WZJ2TK,A5551XYZ,snackattack42,20,21,4,1319760000,Solid choice,Good value for money. The flavor is quite good. Will probably reorder.
+186,B00CFM0P7W,A5572XYZ,petparentmike,10,15,4,1319846400,Pretty good,Good value for money. The flavor is quite good. Will probably reorder.
+187,B001GVISJM,A5578XYZ,foodcritic_jay,16,20,5,1319932800,Highly recommend,Perfect! Great for the whole family. My whole family loves it. Won't buy anything else.
+188,B000LQOCH0,A5618XYZ,pantrypal,19,19,4,1320019200,Good buy,Good value for money. Ships quickly. Will probably reorder.
+189,B0019CW0HE,A5659XYZ,baking_betty,9,11,4,1320105600,Almost perfect,Solid product overall. The flavor is quite good. Just a bit pricey.
+190,B002GTTXGE,A5706XYZ,wholesome_will,18,23,5,1320192000,Love it!,Exceeded my expectations. Great for the whole family. Highly recommend to everyone.
+191,B001FA1NOU,A5716XYZ,crunchmaster,9,13,4,1320278400,Pretty good,Solid product overall. Packaging could be improved. Just a bit pricey.
+192,B0019CW0HE,A5741XYZ,petparentmike,16,18,5,1320364800,Highly recommend,Absolutely love this product! Worth every penny. Will definitely buy again.
+193,B0026KXU2Q,A5743XYZ,organicmom,7,8,3,1320451200,Average,"Not bad, not great. It arrived on time. Met basic expectations."
+194,B00813GRG4,A5753XYZ,gourmet_granny,1,6,3,1320537600,So-so,Middle of the road. Okay for the price. Works fine but nothing exciting.
+195,B001FA1NOU,A5775XYZ,petparentmike,5,6,5,1320624000,Excellent!,Perfect! Worth every penny. My whole family loves it. Won't buy anything else.
+196,B007VTCCL2,A5820XYZ,coffeejunkie,11,16,5,1320710400,Highly recommend,Absolutely love this product! Ships fast and well-packaged. Will definitely buy again.
+197,B006K2ZZ7K,A5867XYZ,wholesome_will,17,18,5,1320796800,Excellent!,Perfect! Perfectly fresh. My whole family loves it. Won't buy anything else.
+198,B007VTCCL2,A5887XYZ,organicmom,14,16,5,1320883200,Highly recommend,Amazing quality for the price. Perfectly fresh. Super fast delivery too.
+199,B006WZJ2TK,A5937XYZ,amazon_shopper,4,6,4,1320969600,Solid choice,Great taste and quality. Packaging could be improved. Would buy again.
+200,B0019CW0HE,A5941XYZ,teatime_tina,3,5,4,1321056000,Solid choice,Really good product. Good but not perfect. Only minor complaint is the packaging.
+201,B007VTCCL2,A5947XYZ,nutritionnerve,2,3,2,1321142400,Probably won't reorder,Below average quality. Overpriced for what it is. Won't be buying again.
+202,B001FA1NOU,A5976XYZ,snacklover99,16,18,4,1321228800,Almost perfect,Really good product. Ships quickly. Only minor complaint is the packaging.
+203,B006WZJ2TK,A5992XYZ,teatime_tina,3,8,5,1321315200,Best ever!,Absolutely love this product! Great for the whole family. Will definitely buy again.
+204,B0026KXU2Q,A6034XYZ,petparentmike,4,9,5,1321401600,Highly recommend,Exceeded my expectations. The flavor is incredible. Highly recommend to everyone.
+205,B003B3OOPA,A6065XYZ,healthyeats2020,4,8,5,1321488000,Excellent!,Exceeded my expectations. The flavor is incredible. Highly recommend to everyone.
+206,B00CFM0P7W,A6112XYZ,gourmet_granny,3,3,4,1321574400,Good buy,Great taste and quality. Freshness was good. Would buy again.
+207,B006WZJ2TK,A6128XYZ,wholesome_will,15,19,5,1321660800,Love it!,Absolutely love this product! Ships fast and well-packaged. Will definitely buy again.
+208,B001E4KFG0,A6163XYZ,foodnerd,13,13,5,1321747200,Best ever!,Best pet supplies I've ever tried. Great for the whole family. Five stars all the way!
+209,B0026KXU2Q,A6203XYZ,amazon_shopper,11,11,3,1321833600,So-so,Decent product but nothing special. Packaging was plain. Expected a bit more.
+210,B001GVISJM,A6237XYZ,kitchenqueen,15,15,4,1321920000,Almost perfect,Really good product. Good but not perfect. Only minor complaint is the packaging.
+211,B006WZJ2TK,A6278XYZ,fitnessfreak,11,12,5,1322006400,Love it!,Exceeded my expectations. The flavor is incredible. Highly recommend to everyone.
+212,B0019CW0HE,A6325XYZ,foodnerd,11,15,5,1322092800,Love it!,Best grocery I've ever tried. Perfectly fresh. Five stars all the way!
+213,B002GTTXGE,A6347XYZ,nutritionnerve,2,7,5,1322179200,Excellent!,Best grocery I've ever tried. Ships fast and well-packaged. Five stars all the way!
+214,B003B3OOPA,A6397XYZ,organicmom,10,12,1,1322265600,Terrible,Do not buy! Tasted stale. Arrived damaged and tasted awful.
+215,B006WZJ2TK,A6430XYZ,snackattack42,20,21,5,1322352000,Love it!,Exceeded my expectations. Ships fast and well-packaged. Highly recommend to everyone.
+216,B0026KXU2Q,A6449XYZ,foodcritic_jay,11,14,5,1322438400,Love it!,Exceeded my expectations. Perfectly fresh. Highly recommend to everyone.
+217,B001EQ54ZS,A6475XYZ,crunchmaster,15,17,4,1322524800,Almost perfect,Great taste and quality. Freshness was good. Would buy again.
+218,B00171APVA,A6509XYZ,amazon_shopper,5,9,5,1322611200,Amazing product,Perfect! The flavor is incredible. My whole family loves it. Won't buy anything else.
+219,B0026KXU2Q,A6528XYZ,baking_betty,19,24,2,1322697600,Probably won't reorder,Not impressed. Took too long to ship. Packaging was damaged on arrival.
+220,B000LQOCH0,A6556XYZ,teatime_tina,19,22,5,1322784000,Best ever!,Absolutely love this product! Ships fast and well-packaged. Will definitely buy again.
+221,B0019CW0HE,A6574XYZ,foodcritic_jay,16,21,5,1322870400,Best ever!,Perfect! The flavor is incredible. My whole family loves it. Won't buy anything else.
+222,B000LQOCH0,A6618XYZ,petparentmike,4,4,5,1322956800,Love it!,Perfect! Worth every penny. My whole family loves it. Won't buy anything else.
+223,B007VTCCL2,A6634XYZ,teatime_tina,19,20,5,1323043200,Love it!,Amazing quality for the price. Ships fast and well-packaged. Super fast delivery too.
+224,B003B3OOPA,A6678XYZ,teatime_tina,4,8,5,1323129600,Amazing product,Absolutely love this product! Ships fast and well-packaged. Will definitely buy again.
+225,B006WZJ2TK,A6702XYZ,fitnessfreak,5,8,3,1323216000,It's okay,Decent product but nothing special. Packaging was plain. Expected a bit more.
+226,B006WZJ2TK,A6736XYZ,gourmet_granny,6,10,5,1323302400,Highly recommend,Exceeded my expectations. Perfectly fresh. Highly recommend to everyone.
+227,B001EQ54ZS,A6755XYZ,tastyreviewer,2,5,5,1323388800,Excellent!,Absolutely love this product! Great for the whole family. Will definitely buy again.
+228,B001FA1NOU,A6767XYZ,healthyeats2020,17,21,5,1323475200,Love it!,Exceeded my expectations. Perfectly fresh. Highly recommend to everyone.
+229,B001FA1NOU,A6786XYZ,coffeejunkie,7,7,3,1323561600,So-so,Average quality. Packaging was plain. There are better options out there.
+230,B007VTCCL2,A6799XYZ,tastyreviewer,18,20,2,1323648000,Expected more,Not impressed. Flavor left a lot to be desired. Packaging was damaged on arrival.
+231,B007VTCCL2,A6829XYZ,petparentmike,9,12,5,1323734400,Love it!,Absolutely love this product! Worth every penny. Will definitely buy again.
+232,B001EQ54ZS,A6875XYZ,amazon_shopper,4,6,4,1323820800,Pretty good,Solid product overall. Ships quickly. Just a bit pricey.
+233,B00813GRG4,A6917XYZ,kitchenqueen,20,24,4,1323907200,Solid choice,Great taste and quality. Freshness was good. Would buy again.
+234,B007VTCCL2,A6929XYZ,amazon_shopper,16,17,5,1323993600,Love it!,Absolutely love this product! Worth every penny. Will definitely buy again.
+235,B000LQOCH0,A6949XYZ,sweettoothsally,2,4,2,1324080000,Below average,Poor quality for the price. Took too long to ship. Expected much better.
+236,B0019CW0HE,A6962XYZ,fitnessfreak,17,17,5,1324166400,Amazing product,Exceeded my expectations. Great for the whole family. Highly recommend to everyone.
+237,B0019CW0HE,A6995XYZ,foodnerd,19,21,2,1324252800,Expected more,Below average quality. Arrived slightly damaged. Won't be buying again.
+238,B001E4KFG0,A7032XYZ,snacklover99,8,13,5,1324339200,Amazing product,Absolutely love this product! The flavor is incredible. Will definitely buy again.
+239,B007VTCCL2,A7046XYZ,wholesome_will,9,14,4,1324425600,Solid choice,Good value for money. The flavor is quite good. Will probably reorder.
+240,B003B3OOPA,A7066XYZ,crunchmaster,1,2,3,1324512000,It's okay,"Not bad, not great. It arrived on time. Met basic expectations."
+241,B006WZJ2TK,A7095XYZ,organicmom,10,15,4,1324598400,Really liked it,Solid product overall. Freshness was good. Just a bit pricey.
+242,B001EQ54ZS,A7116XYZ,teatime_tina,16,20,5,1324684800,Best ever!,Best grocery I've ever tried. Ships fast and well-packaged. Five stars all the way!
+243,B0026KXU2Q,A7123XYZ,gourmet_granny,4,4,3,1324771200,Average,"Not bad, not great. It arrived on time. Met basic expectations."
+244,B00171APVA,A7127XYZ,wholesome_will,10,14,5,1324857600,Excellent!,Best grocery I've ever tried. Ships fast and well-packaged. Five stars all the way!
+245,B0026KXU2Q,A7174XYZ,coffeejunkie,15,17,3,1324944000,Decent enough,Middle of the road. Nothing special about it. Works fine but nothing exciting.
+246,B001E4KFG0,A7206XYZ,crunchmaster,6,10,2,1325030400,Not great,Mediocre at best. Overpriced for what it is. Save your money.
+247,B001E4KFG0,A7229XYZ,tastyreviewer,17,17,1,1325116800,Do not buy,Disgusting quality. Total rip-off. Returned immediately.
+248,B006WZJ2TK,A7236XYZ,fitnessfreak,1,4,2,1325203200,Below average,Mediocre at best. Took too long to ship. Save your money.
+249,B00CFM0P7W,A7240XYZ,teatime_tina,12,16,4,1325289600,Pretty good,Very happy with this purchase. Good but not perfect. Almost perfect.
+250,B007VTCCL2,A7269XYZ,wholesome_will,3,6,4,1325376000,Really liked it,Really good product. Good but not perfect. Only minor complaint is the packaging.
+251,B007VTCCL2,A7293XYZ,snackattack42,19,23,5,1325462400,Excellent!,Best grocery I've ever tried. Perfectly fresh. Five stars all the way!
+252,B001GVISJM,A7319XYZ,foodcritic_jay,16,19,1,1325548800,Awful,Worst purchase I've made on Amazon. Packaging was destroyed. Zero stars if possible.
+253,B00CFM0P7W,A7329XYZ,petparentmike,5,8,5,1325635200,Best ever!,Amazing quality for the price. Perfectly fresh. Super fast delivery too.
+254,B001EQ54ZS,A7369XYZ,foodnerd,17,20,5,1325721600,Amazing product,Amazing quality for the price. Perfectly fresh. Super fast delivery too.
+255,B00CFM0P7W,A7415XYZ,snacklover99,13,17,3,1325808000,It's okay,Average quality. It arrived on time. There are better options out there.
+256,B007VTCCL2,A7435XYZ,snacklover99,20,24,5,1325894400,Best ever!,Perfect! Worth every penny. My whole family loves it. Won't buy anything else.
+257,B006K2ZZ7K,A7472XYZ,foodnerd,20,25,5,1325980800,Amazing product,Best grocery I've ever tried. Ships fast and well-packaged. Five stars all the way!
+258,B007VTCCL2,A7512XYZ,petparentmike,3,4,5,1326067200,Amazing product,Absolutely love this product! Great for the whole family. Will definitely buy again.
+259,B003B3OOPA,A7514XYZ,petparentmike,16,20,3,1326153600,Decent enough,It's okay. Nothing special about it. Probably won't repurchase.
+260,B002GTTXGE,A7545XYZ,foodcritic_jay,17,19,5,1326240000,Excellent!,Amazing quality for the price. Great for the whole family. Super fast delivery too.
+261,B003B3OOPA,A7588XYZ,baking_betty,10,14,4,1326326400,Solid choice,Good value for money. Packaging could be improved. Will probably reorder.
+262,B0019CW0HE,A7611XYZ,fitnessfreak,7,9,5,1326412800,Excellent!,Perfect! Worth every penny. My whole family loves it. Won't buy anything else.
+263,B00171APVA,A7647XYZ,pantrypal,10,13,3,1326499200,Decent enough,It's okay. It arrived on time. Probably won't repurchase.
+264,B001GVISJM,A7670XYZ,fitnessfreak,17,20,5,1326585600,Amazing product,Absolutely love this product! Perfectly fresh. Will definitely buy again.
+265,B002GTTXGE,A7696XYZ,petparentmike,2,4,4,1326672000,Good buy,Really good product. Freshness was good. Only minor complaint is the packaging.
+266,B0019CW0HE,A7725XYZ,tastyreviewer,8,12,3,1326758400,So-so,It's okay. Packaging was plain. Probably won't repurchase.
+267,B00171APVA,A7770XYZ,wholesome_will,1,6,2,1326844800,Not great,Below average quality. Overpriced for what it is. Won't be buying again.
+268,B006K2ZZ7K,A7804XYZ,foodcritic_jay,15,15,5,1326931200,Best ever!,Perfect! The flavor is incredible. My whole family loves it. Won't buy anything else.
+269,B007VTCCL2,A7848XYZ,snackattack42,15,20,2,1327017600,Probably won't reorder,Mediocre at best. Arrived slightly damaged. Save your money.
+270,B007VTCCL2,A7861XYZ,baking_betty,20,24,5,1327104000,Love it!,Absolutely love this product! Perfectly fresh. Will definitely buy again.
+271,B001GVISJM,A7876XYZ,foodcritic_jay,1,4,5,1327190400,Excellent!,Perfect! Great for the whole family. My whole family loves it. Won't buy anything else.
+272,B000LQOCH0,A7908XYZ,pantrypal,18,22,5,1327276800,Best ever!,Absolutely love this product! The flavor is incredible. Will definitely buy again.
+273,B001FA1NOU,A7915XYZ,pantrypal,15,16,5,1327363200,Amazing product,Amazing quality for the price. Ships fast and well-packaged. Super fast delivery too.
+274,B003B3OOPA,A7948XYZ,gourmet_granny,20,22,3,1327449600,Decent enough,It's okay. It arrived on time. Probably won't repurchase.
+275,B000LQOCH0,A7994XYZ,baking_betty,5,9,1,1327536000,Waste of money,Absolutely awful. Took weeks to arrive. Nothing like the description.
+276,B001FA1NOU,A8035XYZ,amazon_shopper,12,17,4,1327622400,Pretty good,Very happy with this purchase. Good but not perfect. Almost perfect.
+277,B000LQOCH0,A8042XYZ,tastyreviewer,8,11,5,1327708800,Love it!,Best grocery I've ever tried. Perfectly fresh. Five stars all the way!
+278,B003B3OOPA,A8058XYZ,baking_betty,0,2,5,1327795200,Amazing product,Amazing quality for the price. Perfectly fresh. Super fast delivery too.
+279,B0026KXU2Q,A8100XYZ,foodcritic_jay,5,8,5,1327881600,Best ever!,Perfect! The flavor is incredible. My whole family loves it. Won't buy anything else.
+280,B001GVISJM,A8144XYZ,pantrypal,19,20,5,1327968000,Best ever!,Exceeded my expectations. The flavor is incredible. Highly recommend to everyone.
+281,B000LQOCH0,A8159XYZ,nutritionnerve,17,20,4,1328054400,Almost perfect,Very happy with this purchase. Good but not perfect. Almost perfect.
+282,B001GVISJM,A8208XYZ,organicmom,16,19,5,1328140800,Love it!,Amazing quality for the price. Great for the whole family. Super fast delivery too.
+283,B001EQ54ZS,A8242XYZ,foodnerd,16,17,4,1328227200,Solid choice,Really good product. The flavor is quite good. Only minor complaint is the packaging.
+284,B001GVISJM,A8279XYZ,baking_betty,6,11,2,1328313600,Disappointed,Mediocre at best. Overpriced for what it is. Save your money.
+285,B003B3OOPA,A8317XYZ,kitchenqueen,4,8,2,1328400000,Probably won't reorder,Disappointed with this purchase. Not fresh at all. Not what I expected.
+286,B003B3OOPA,A8344XYZ,snackattack42,12,14,4,1328486400,Pretty good,Very happy with this purchase. Ships quickly. Almost perfect.
+287,B001EQ54ZS,A8345XYZ,healthyeats2020,2,6,3,1328572800,Not bad,"Not bad, not great. Flavor is average. Met basic expectations."
+288,B001FA1NOU,A8349XYZ,tastyreviewer,5,6,5,1328659200,Highly recommend,Exceeded my expectations. The flavor is incredible. Highly recommend to everyone.
+289,B0019CW0HE,A8399XYZ,amazon_shopper,12,15,5,1328745600,Highly recommend,Perfect! Perfectly fresh. My whole family loves it. Won't buy anything else.
+290,B0019CW0HE,A8405XYZ,snackattack42,5,9,5,1328832000,Love it!,Exceeded my expectations. Great for the whole family. Highly recommend to everyone.
+291,B001GVISJM,A8431XYZ,sweettoothsally,14,19,2,1328918400,Below average,Disappointed with this purchase. Flavor left a lot to be desired. Not what I expected.
+292,B001GVISJM,A8478XYZ,crunchmaster,11,12,4,1329004800,Almost perfect,Great taste and quality. Packaging could be improved. Would buy again.
+293,B006K2ZZ7K,A8496XYZ,gourmet_granny,0,1,5,1329091200,Amazing product,Perfect! The flavor is incredible. My whole family loves it. Won't buy anything else.
+294,B00813GRG4,A8510XYZ,foodcritic_jay,7,12,2,1329177600,Disappointed,Poor quality for the price. Not fresh at all. Expected much better.
+295,B006WZJ2TK,A8513XYZ,snackattack42,16,18,4,1329264000,Really liked it,Really good product. Packaging could be improved. Only minor complaint is the packaging.
+296,B002GTTXGE,A8528XYZ,foodnerd,10,11,5,1329350400,Amazing product,Amazing quality for the price. Perfectly fresh. Super fast delivery too.
+297,B001FA1NOU,A8548XYZ,kitchenqueen,8,8,2,1329436800,Below average,Mediocre at best. Arrived slightly damaged. Save your money.
+298,B00CFM0P7W,A8584XYZ,coffeejunkie,1,3,5,1329523200,Highly recommend,Amazing quality for the price. Ships fast and well-packaged. Super fast delivery too.
+299,B0019CW0HE,A8626XYZ,kitchenqueen,4,6,4,1329609600,Almost perfect,Good value for money. Freshness was good. Will probably reorder.
+300,B000LQOCH0,A8651XYZ,tastyreviewer,4,7,5,1329696000,Best ever!,Best grocery I've ever tried. Great for the whole family. Five stars all the way!
+301,B001GVISJM,A8655XYZ,amazon_shopper,12,13,4,1329782400,Really liked it,Solid product overall. Good but not perfect. Just a bit pricey.
+302,B006K2ZZ7K,A8672XYZ,healthyeats2020,17,22,4,1329868800,Pretty good,Very happy with this purchase. Ships quickly. Almost perfect.
+303,B001E4KFG0,A8685XYZ,wholesome_will,6,10,3,1329955200,It's okay,Decent product but nothing special. Okay for the price. Expected a bit more.
+304,B0019CW0HE,A8732XYZ,tastyreviewer,0,1,4,1330041600,Good buy,Very happy with this purchase. Packaging could be improved. Almost perfect.
+305,B001EQ54ZS,A8745XYZ,tastyreviewer,12,13,2,1330128000,Not great,Poor quality for the price. Arrived slightly damaged. Expected much better.
+306,B0026KXU2Q,A8781XYZ,crunchmaster,9,11,5,1330214400,Best ever!,Amazing quality for the price. Ships fast and well-packaged. Super fast delivery too.
+307,B001GVISJM,A8805XYZ,nutritionnerve,6,8,5,1330300800,Best ever!,Perfect! The flavor is incredible. My whole family loves it. Won't buy anything else.
+308,B006WZJ2TK,A8826XYZ,sweettoothsally,17,21,1,1330387200,Do not buy,Terrible product. Packaging was destroyed. Complete waste of money.
+309,B001EQ54ZS,A8864XYZ,petparentmike,12,16,4,1330473600,Really liked it,Very happy with this purchase. Packaging could be improved. Almost perfect.
+310,B003B3OOPA,A8880XYZ,baking_betty,14,15,4,1330560000,Almost perfect,Good value for money. Freshness was good. Will probably reorder.
+311,B007VTCCL2,A8927XYZ,petparentmike,17,22,4,1330646400,Really liked it,Good value for money. Good but not perfect. Will probably reorder.
+312,B001GVISJM,A8931XYZ,healthyeats2020,4,9,1,1330732800,Awful,Terrible product. Tasted stale. Complete waste of money.
+313,B00813GRG4,A8946XYZ,snacklover99,11,11,5,1330819200,Highly recommend,Amazing quality for the price. Great for the whole family. Super fast delivery too.
+314,B0019CW0HE,A8986XYZ,wholesome_will,0,4,5,1330905600,Love it!,Perfect! Ships fast and well-packaged. My whole family loves it. Won't buy anything else.
+315,B006WZJ2TK,A9022XYZ,kitchenqueen,0,4,1,1330992000,Do not buy,Absolutely awful. Took weeks to arrive. Nothing like the description.
+316,B0019CW0HE,A9067XYZ,coffeejunkie,4,5,4,1331078400,Solid choice,Really good product. The flavor is quite good. Only minor complaint is the packaging.
+317,B00CFM0P7W,A9080XYZ,teatime_tina,11,14,4,1331164800,Pretty good,Good value for money. Freshness was good. Will probably reorder.
+318,B00CFM0P7W,A9110XYZ,sweettoothsally,2,5,3,1331251200,It's okay,Decent product but nothing special. It arrived on time. Expected a bit more.
+319,B006WZJ2TK,A9135XYZ,foodcritic_jay,15,18,4,1331337600,Pretty good,Great taste and quality. The flavor is quite good. Would buy again.
+320,B007VTCCL2,A9177XYZ,gourmet_granny,6,11,4,1331424000,Really liked it,Really good product. Good but not perfect. Only minor complaint is the packaging.
+321,B003B3OOPA,A9214XYZ,healthyeats2020,1,2,3,1331510400,So-so,Middle of the road. It arrived on time. Works fine but nothing exciting.
+322,B001E4KFG0,A9235XYZ,foodnerd,9,10,5,1331596800,Love it!,Perfect! Great for the whole family. My whole family loves it. Won't buy anything else.
+323,B006K2ZZ7K,A9272XYZ,crunchmaster,4,9,4,1331683200,Almost perfect,Very happy with this purchase. Good but not perfect. Almost perfect.
+324,B00813GRG4,A9319XYZ,teatime_tina,7,7,4,1331769600,Almost perfect,Really good product. The flavor is quite good. Only minor complaint is the packaging.
+325,B00CFM0P7W,A9341XYZ,wholesome_will,20,22,5,1331856000,Love it!,Exceeded my expectations. Ships fast and well-packaged. Highly recommend to everyone.
+326,B003B3OOPA,A9370XYZ,snackattack42,18,23,3,1331942400,Average,"Not bad, not great. Nothing special about it. Met basic expectations."
+327,B00813GRG4,A9395XYZ,pantrypal,8,9,5,1332028800,Love it!,Absolutely love this product! Great for the whole family. Will definitely buy again.
+328,B001EQ54ZS,A9420XYZ,petparentmike,3,3,5,1332115200,Best ever!,Exceeded my expectations. Ships fast and well-packaged. Highly recommend to everyone.
+329,B00171APVA,A9421XYZ,fitnessfreak,5,8,4,1332201600,Pretty good,Great taste and quality. The flavor is quite good. Would buy again.
+330,B001GVISJM,A9450XYZ,amazon_shopper,11,15,4,1332288000,Pretty good,Really good product. The flavor is quite good. Only minor complaint is the packaging.
+331,B00CFM0P7W,A9456XYZ,baking_betty,13,16,4,1332374400,Good buy,Really good product. Ships quickly. Only minor complaint is the packaging.
+332,B00813GRG4,A9506XYZ,snackattack42,5,10,5,1332460800,Amazing product,Amazing quality for the price. Great for the whole family. Super fast delivery too.
+333,B000LQOCH0,A9531XYZ,pantrypal,2,3,2,1332547200,Not great,Mediocre at best. Took too long to ship. Save your money.
+334,B00171APVA,A9559XYZ,tastyreviewer,7,12,4,1332633600,Good buy,Very happy with this purchase. The flavor is quite good. Almost perfect.
+335,B003B3OOPA,A9600XYZ,organicmom,9,9,4,1332720000,Really liked it,Really good product. Ships quickly. Only minor complaint is the packaging.
+336,B0026KXU2Q,A9626XYZ,crunchmaster,13,18,5,1332806400,Best ever!,Perfect! Perfectly fresh. My whole family loves it. Won't buy anything else.
+337,B000LQOCH0,A9665XYZ,wholesome_will,5,8,3,1332892800,Not bad,"Not bad, not great. Packaging was plain. Met basic expectations."
+338,B00171APVA,A9686XYZ,tastyreviewer,12,14,5,1332979200,Best ever!,Best grocery I've ever tried. Worth every penny. Five stars all the way!
+339,B0026KXU2Q,A9712XYZ,foodnerd,5,10,2,1333065600,Expected more,Poor quality for the price. Arrived slightly damaged. Expected much better.
+340,B001GVISJM,A9762XYZ,nutritionnerve,2,5,1,1333152000,Do not buy,Disgusting quality. Packaging was destroyed. Returned immediately.
+341,B003B3OOPA,A9806XYZ,pantrypal,13,16,2,1333238400,Not great,Not impressed. Arrived slightly damaged. Packaging was damaged on arrival.
+342,B003B3OOPA,A9811XYZ,tastyreviewer,16,21,5,1333324800,Amazing product,Perfect! Worth every penny. My whole family loves it. Won't buy anything else.
+343,B001GVISJM,A9838XYZ,teatime_tina,3,4,1,1333411200,Terrible,Absolutely awful. Total rip-off. Nothing like the description.
+344,B0019CW0HE,A9881XYZ,wholesome_will,10,13,4,1333497600,Almost perfect,Solid product overall. The flavor is quite good. Just a bit pricey.
+345,B001E4KFG0,A9888XYZ,sweettoothsally,18,23,2,1333584000,Expected more,Poor quality for the price. Overpriced for what it is. Expected much better.
+346,B006K2ZZ7K,A9925XYZ,crunchmaster,4,6,4,1333670400,Solid choice,Solid product overall. Ships quickly. Just a bit pricey.
+347,B003B3OOPA,A9927XYZ,amazon_shopper,11,13,2,1333756800,Not great,Disappointed with this purchase. Flavor left a lot to be desired. Not what I expected.
+348,B003B3OOPA,A9949XYZ,kitchenqueen,3,6,5,1333843200,Highly recommend,Exceeded my expectations. Ships fast and well-packaged. Highly recommend to everyone.
+349,B001EQ54ZS,A9996XYZ,healthyeats2020,0,2,4,1333929600,Pretty good,Really good product. Freshness was good. Only minor complaint is the packaging.
+350,B00813GRG4,A10038XYZ,coffeejunkie,17,18,5,1334016000,Excellent!,Amazing quality for the price. Great for the whole family. Super fast delivery too.
+351,B001GVISJM,A10060XYZ,nutritionnerve,5,10,4,1334102400,Really liked it,Good value for money. Packaging could be improved. Will probably reorder.
+352,B006WZJ2TK,A10103XYZ,wholesome_will,13,16,4,1334188800,Solid choice,Good value for money. Packaging could be improved. Will probably reorder.
+353,B001EQ54ZS,A10104XYZ,fitnessfreak,17,18,3,1334275200,It's okay,Middle of the road. Flavor is average. Works fine but nothing exciting.
+354,B0026KXU2Q,A10128XYZ,gourmet_granny,20,22,3,1334361600,So-so,"Not bad, not great. It arrived on time. Met basic expectations."
+355,B006WZJ2TK,A10167XYZ,foodnerd,14,18,5,1334448000,Best ever!,Exceeded my expectations. The flavor is incredible. Highly recommend to everyone.
+356,B002GTTXGE,A10179XYZ,pantrypal,4,6,5,1334534400,Love it!,Amazing quality for the price. Worth every penny. Super fast delivery too.
+357,B006K2ZZ7K,A10187XYZ,coffeejunkie,12,15,3,1334620800,So-so,It's okay. It arrived on time. Probably won't repurchase.
+358,B000LQOCH0,A10226XYZ,amazon_shopper,20,21,4,1334707200,Solid choice,Good value for money. Packaging could be improved. Will probably reorder.
+359,B000LQOCH0,A10262XYZ,petparentmike,19,19,4,1334793600,Almost perfect,Very happy with this purchase. Packaging could be improved. Almost perfect.
+360,B001E4KFG0,A10285XYZ,organicmom,20,23,4,1334880000,Solid choice,Solid product overall. Ships quickly. Just a bit pricey.
+361,B0019CW0HE,A10312XYZ,nutritionnerve,18,18,4,1334966400,Pretty good,Great taste and quality. Ships quickly. Would buy again.
+362,B006K2ZZ7K,A10361XYZ,fitnessfreak,5,8,3,1335052800,Not bad,Middle of the road. Packaging was plain. Works fine but nothing exciting.
+363,B001EQ54ZS,A10398XYZ,tastyreviewer,18,18,5,1335139200,Love it!,Amazing quality for the price. Worth every penny. Super fast delivery too.
+364,B007VTCCL2,A10416XYZ,teatime_tina,17,18,4,1335225600,Almost perfect,Really good product. Good but not perfect. Only minor complaint is the packaging.
+365,B00813GRG4,A10444XYZ,sweettoothsally,8,10,5,1335312000,Highly recommend,Absolutely love this product! Perfectly fresh. Will definitely buy again.
+366,B003B3OOPA,A10450XYZ,gourmet_granny,11,16,5,1335398400,Amazing product,Best grocery I've ever tried. Great for the whole family. Five stars all the way!
+367,B0019CW0HE,A10490XYZ,wholesome_will,1,5,4,1335484800,Really liked it,Great taste and quality. Packaging could be improved. Would buy again.
+368,B001GVISJM,A10513XYZ,snackattack42,9,13,3,1335571200,Not bad,Average quality. Packaging was plain. There are better options out there.
+369,B002GTTXGE,A10531XYZ,gourmet_granny,8,13,4,1335657600,Pretty good,Good value for money. Packaging could be improved. Will probably reorder.
+370,B001EQ54ZS,A10540XYZ,sweettoothsally,12,15,5,1335744000,Excellent!,Exceeded my expectations. Great for the whole family. Highly recommend to everyone.
+371,B00CFM0P7W,A10550XYZ,amazon_shopper,20,20,5,1335830400,Love it!,Perfect! Ships fast and well-packaged. My whole family loves it. Won't buy anything else.
+372,B001GVISJM,A10576XYZ,teatime_tina,18,18,5,1335916800,Best ever!,Perfect! Ships fast and well-packaged. My whole family loves it. Won't buy anything else.
+373,B002GTTXGE,A10626XYZ,nutritionnerve,12,13,5,1336003200,Amazing product,Absolutely love this product! Perfectly fresh. Will definitely buy again.
+374,B002GTTXGE,A10654XYZ,fitnessfreak,17,21,3,1336089600,Not bad,Average quality. It arrived on time. There are better options out there.
+375,B00CFM0P7W,A10663XYZ,baking_betty,20,23,5,1336176000,Love it!,Absolutely love this product! The flavor is incredible. Will definitely buy again.
+376,B00813GRG4,A10665XYZ,coffeejunkie,13,14,5,1336262400,Love it!,Perfect! Ships fast and well-packaged. My whole family loves it. Won't buy anything else.
+377,B001FA1NOU,A10710XYZ,pantrypal,20,22,2,1336348800,Disappointed,Not impressed. Arrived slightly damaged. Packaging was damaged on arrival.
+378,B00813GRG4,A10727XYZ,coffeejunkie,7,10,4,1336435200,Good buy,Good value for money. The flavor is quite good. Will probably reorder.
+379,B00813GRG4,A10769XYZ,snacklover99,4,8,5,1336521600,Love it!,Perfect! Great for the whole family. My whole family loves it. Won't buy anything else.
+380,B001GVISJM,A10784XYZ,snacklover99,13,18,5,1336608000,Love it!,Exceeded my expectations. The flavor is incredible. Highly recommend to everyone.
+381,B003B3OOPA,A10793XYZ,crunchmaster,10,12,1,1336694400,Terrible,Terrible product. Tasted stale. Complete waste of money.
+382,B000LQOCH0,A10813XYZ,petparentmike,18,18,4,1336780800,Solid choice,Really good product. Packaging could be improved. Only minor complaint is the packaging.
+383,B0019CW0HE,A10853XYZ,teatime_tina,19,24,2,1336867200,Probably won't reorder,Below average quality. Arrived slightly damaged. Won't be buying again.
+384,B002GTTXGE,A10882XYZ,gourmet_granny,12,14,3,1336953600,So-so,Decent product but nothing special. Packaging was plain. Expected a bit more.
+385,B0026KXU2Q,A10910XYZ,sweettoothsally,17,21,5,1337040000,Excellent!,Absolutely love this product! Perfectly fresh. Will definitely buy again.
+386,B001EQ54ZS,A10949XYZ,snacklover99,19,23,5,1337126400,Amazing product,Best grocery I've ever tried. Perfectly fresh. Five stars all the way!
+387,B001EQ54ZS,A10962XYZ,foodcritic_jay,3,4,4,1337212800,Almost perfect,Good value for money. Packaging could be improved. Will probably reorder.
+388,B0019CW0HE,A10994XYZ,kitchenqueen,4,7,4,1337299200,Good buy,Very happy with this purchase. The flavor is quite good. Almost perfect.
+389,B006WZJ2TK,A11031XYZ,coffeejunkie,18,18,4,1337385600,Pretty good,Really good product. Ships quickly. Only minor complaint is the packaging.
+390,B00171APVA,A11032XYZ,foodcritic_jay,20,25,3,1337472000,Not bad,Middle of the road. Nothing special about it. Works fine but nothing exciting.
+391,B007VTCCL2,A11065XYZ,crunchmaster,19,20,4,1337558400,Solid choice,Solid product overall. The flavor is quite good. Just a bit pricey.
+392,B00813GRG4,A11083XYZ,kitchenqueen,10,13,3,1337644800,So-so,It's okay. Packaging was plain. Probably won't repurchase.
+393,B0019CW0HE,A11121XYZ,healthyeats2020,1,2,5,1337731200,Excellent!,Perfect! Perfectly fresh. My whole family loves it. Won't buy anything else.
+394,B001FA1NOU,A11127XYZ,nutritionnerve,9,14,4,1337817600,Pretty good,Solid product overall. Good but not perfect. Just a bit pricey.
+395,B0019CW0HE,A11175XYZ,gourmet_granny,5,8,5,1337904000,Love it!,Best grocery I've ever tried. The flavor is incredible. Five stars all the way!
+396,B001GVISJM,A11198XYZ,fitnessfreak,8,13,4,1337990400,Really liked it,Very happy with this purchase. Packaging could be improved. Almost perfect.
+397,B007VTCCL2,A11206XYZ,baking_betty,2,4,5,1338076800,Amazing product,Exceeded my expectations. Ships fast and well-packaged. Highly recommend to everyone.
+398,B00CFM0P7W,A11252XYZ,tastyreviewer,1,4,5,1338163200,Best ever!,Amazing quality for the price. Ships fast and well-packaged. Super fast delivery too.
+399,B000LQOCH0,A11289XYZ,fitnessfreak,7,12,4,1338249600,Pretty good,Solid product overall. The flavor is quite good. Just a bit pricey.
+400,B001E4KFG0,A11322XYZ,snacklover99,11,14,1,1338336000,Awful,Terrible product. Packaging was destroyed. Complete waste of money.
+401,B000LQOCH0,A11332XYZ,foodcritic_jay,10,11,5,1338422400,Excellent!,Perfect! Worth every penny. My whole family loves it. Won't buy anything else.
+402,B001FA1NOU,A11359XYZ,fitnessfreak,3,7,5,1338508800,Best ever!,Amazing quality for the price. The flavor is incredible. Super fast delivery too.
+403,B001FA1NOU,A11403XYZ,sweettoothsally,2,5,1,1338595200,Awful,Terrible product. Total rip-off. Complete waste of money.
+404,B007VTCCL2,A11422XYZ,baking_betty,0,2,5,1338681600,Highly recommend,Amazing quality for the price. The flavor is incredible. Super fast delivery too.
+405,B00171APVA,A11435XYZ,pantrypal,11,15,4,1338768000,Almost perfect,Great taste and quality. Good but not perfect. Would buy again.
+406,B007VTCCL2,A11467XYZ,snackattack42,13,13,5,1338854400,Love it!,Best grocery I've ever tried. Great for the whole family. Five stars all the way!
+407,B001GVISJM,A11482XYZ,snacklover99,9,9,4,1338940800,Almost perfect,Really good product. Freshness was good. Only minor complaint is the packaging.
+408,B001GVISJM,A11496XYZ,amazon_shopper,8,8,5,1339027200,Excellent!,Absolutely love this product! Ships fast and well-packaged. Will definitely buy again.
+409,B001FA1NOU,A11499XYZ,kitchenqueen,2,6,3,1339113600,Decent enough,Average quality. Nothing special about it. There are better options out there.
+410,B001GVISJM,A11506XYZ,crunchmaster,1,4,2,1339200000,Expected more,Poor quality for the price. Flavor left a lot to be desired. Expected much better.
+411,B000LQOCH0,A11549XYZ,fitnessfreak,10,13,3,1339286400,Not bad,"Not bad, not great. It arrived on time. Met basic expectations."
+412,B006K2ZZ7K,A11567XYZ,organicmom,4,4,1,1339372800,Terrible,Absolutely awful. Packaging was destroyed. Nothing like the description.
+413,B003B3OOPA,A11578XYZ,amazon_shopper,6,9,4,1339459200,Good buy,Solid product overall. The flavor is quite good. Just a bit pricey.
+414,B003B3OOPA,A11598XYZ,gourmet_granny,19,19,3,1339545600,Not bad,It's okay. Flavor is average. Probably won't repurchase.
+415,B002GTTXGE,A11612XYZ,petparentmike,12,16,5,1339632000,Best ever!,Best grocery I've ever tried. The flavor is incredible. Five stars all the way!
+416,B0019CW0HE,A11616XYZ,coffeejunkie,17,22,3,1339718400,Decent enough,"Not bad, not great. Flavor is average. Met basic expectations."
+417,B006K2ZZ7K,A11652XYZ,gourmet_granny,1,2,2,1339804800,Disappointed,Disappointed with this purchase. Arrived slightly damaged. Not what I expected.
+418,B006K2ZZ7K,A11661XYZ,teatime_tina,8,8,5,1339891200,Amazing product,Amazing quality for the price. The flavor is incredible. Super fast delivery too.
+419,B00813GRG4,A11663XYZ,nutritionnerve,3,3,3,1339977600,Not bad,Decent product but nothing special. Packaging was plain. Expected a bit more.
+420,B001E4KFG0,A11693XYZ,foodnerd,0,3,2,1340064000,Probably won't reorder,Mediocre at best. Not fresh at all. Save your money.
+421,B006WZJ2TK,A11737XYZ,organicmom,14,15,2,1340150400,Below average,Not impressed. Arrived slightly damaged. Packaging was damaged on arrival.
+422,B00CFM0P7W,A11740XYZ,sweettoothsally,17,20,5,1340236800,Highly recommend,Perfect! Perfectly fresh. My whole family loves it. Won't buy anything else.
+423,B00813GRG4,A11744XYZ,petparentmike,7,12,3,1340323200,So-so,It's okay. Nothing special about it. Probably won't repurchase.
+424,B007VTCCL2,A11779XYZ,crunchmaster,15,17,1,1340409600,Very disappointed,Disgusting quality. Took weeks to arrive. Returned immediately.
+425,B001GVISJM,A11816XYZ,fitnessfreak,19,20,3,1340496000,Not bad,Decent product but nothing special. Packaging was plain. Expected a bit more.
+426,B001FA1NOU,A11818XYZ,fitnessfreak,11,15,5,1340582400,Amazing product,Perfect! The flavor is incredible. My whole family loves it. Won't buy anything else.
+427,B000LQOCH0,A11833XYZ,sweettoothsally,7,11,2,1340668800,Disappointed,Poor quality for the price. Took too long to ship. Expected much better.
+428,B0026KXU2Q,A11858XYZ,coffeejunkie,10,15,5,1340755200,Amazing product,Best grocery I've ever tried. Great for the whole family. Five stars all the way!
+429,B0026KXU2Q,A11903XYZ,snacklover99,4,8,5,1340841600,Amazing product,Amazing quality for the price. Perfectly fresh. Super fast delivery too.
+430,B002GTTXGE,A11916XYZ,tastyreviewer,15,15,5,1340928000,Excellent!,Exceeded my expectations. Worth every penny. Highly recommend to everyone.
+431,B001E4KFG0,A11922XYZ,sweettoothsally,0,2,3,1341014400,Decent enough,Middle of the road. Flavor is average. Works fine but nothing exciting.
+432,B006K2ZZ7K,A11962XYZ,baking_betty,0,1,5,1341100800,Love it!,Exceeded my expectations. Great for the whole family. Highly recommend to everyone.
+433,B001EQ54ZS,A12000XYZ,gourmet_granny,11,16,5,1341187200,Love it!,Exceeded my expectations. Worth every penny. Highly recommend to everyone.
+434,B006WZJ2TK,A12043XYZ,baking_betty,5,10,4,1341273600,Really liked it,Very happy with this purchase. Freshness was good. Almost perfect.
+435,B007VTCCL2,A12071XYZ,tastyreviewer,19,21,5,1341360000,Amazing product,Best grocery I've ever tried. Perfectly fresh. Five stars all the way!
+436,B0019CW0HE,A12086XYZ,coffeejunkie,4,5,4,1341446400,Good buy,Very happy with this purchase. Ships quickly. Almost perfect.
+437,B001E4KFG0,A12133XYZ,foodnerd,5,9,5,1341532800,Love it!,Amazing quality for the price. Ships fast and well-packaged. Super fast delivery too.
+438,B001FA1NOU,A12154XYZ,wholesome_will,15,16,5,1341619200,Love it!,Amazing quality for the price. Great for the whole family. Super fast delivery too.
+439,B001EQ54ZS,A12176XYZ,teatime_tina,20,25,1,1341705600,Terrible,Do not buy! Took weeks to arrive. Arrived damaged and tasted awful.
+440,B003B3OOPA,A12198XYZ,organicmom,8,8,1,1341792000,Do not buy,Terrible product. Packaging was destroyed. Complete waste of money.
+441,B001E4KFG0,A12245XYZ,nutritionnerve,15,18,1,1341878400,Awful,Do not buy! Not fresh whatsoever. Arrived damaged and tasted awful.
+442,B001GVISJM,A12268XYZ,tastyreviewer,14,14,4,1341964800,Really liked it,Great taste and quality. Good but not perfect. Would buy again.
+443,B00171APVA,A12271XYZ,fitnessfreak,5,8,1,1342051200,Do not buy,Terrible product. Tasted stale. Complete waste of money.
+444,B001EQ54ZS,A12282XYZ,healthyeats2020,15,20,1,1342137600,Very disappointed,Absolutely awful. Took weeks to arrive. Nothing like the description.
+445,B006WZJ2TK,A12284XYZ,coffeejunkie,1,1,5,1342224000,Excellent!,Perfect! Worth every penny. My whole family loves it. Won't buy anything else.
+446,B006K2ZZ7K,A12306XYZ,amazon_shopper,9,11,5,1342310400,Best ever!,Amazing quality for the price. Worth every penny. Super fast delivery too.
+447,B00813GRG4,A12322XYZ,foodnerd,1,3,1,1342396800,Waste of money,Disgusting quality. Total rip-off. Returned immediately.
+448,B006WZJ2TK,A12323XYZ,wholesome_will,0,1,2,1342483200,Disappointed,Below average quality. Not fresh at all. Won't be buying again.
+449,B0019CW0HE,A12334XYZ,healthyeats2020,12,15,3,1342569600,Not bad,Decent product but nothing special. Nothing special about it. Expected a bit more.
+450,B001FA1NOU,A12366XYZ,healthyeats2020,11,14,5,1342656000,Excellent!,Perfect! Worth every penny. My whole family loves it. Won't buy anything else.
+451,B000LQOCH0,A12390XYZ,fitnessfreak,7,9,4,1342742400,Good buy,Good value for money. Ships quickly. Will probably reorder.
+452,B001E4KFG0,A12427XYZ,gourmet_granny,13,17,2,1342828800,Expected more,Not impressed. Flavor left a lot to be desired. Packaging was damaged on arrival.
+453,B001GVISJM,A12442XYZ,crunchmaster,15,19,1,1342915200,Very disappointed,Disgusting quality. Total rip-off. Returned immediately.
+454,B003B3OOPA,A12458XYZ,crunchmaster,16,20,3,1343001600,So-so,Middle of the road. Flavor is average. Works fine but nothing exciting.
+455,B00CFM0P7W,A12502XYZ,nutritionnerve,6,7,2,1343088000,Not great,Below average quality. Arrived slightly damaged. Won't be buying again.
+456,B006WZJ2TK,A12505XYZ,amazon_shopper,8,10,1,1343174400,Very disappointed,Do not buy! Packaging was destroyed. Arrived damaged and tasted awful.
+457,B001FA1NOU,A12552XYZ,healthyeats2020,17,19,5,1343260800,Highly recommend,Amazing quality for the price. Ships fast and well-packaged. Super fast delivery too.
+458,B001GVISJM,A12570XYZ,snacklover99,13,13,4,1343347200,Solid choice,Solid product overall. Good but not perfect. Just a bit pricey.
+459,B000LQOCH0,A12597XYZ,foodnerd,18,18,2,1343433600,Disappointed,Disappointed with this purchase. Overpriced for what it is. Not what I expected.
+460,B002GTTXGE,A12616XYZ,teatime_tina,20,23,4,1343520000,Almost perfect,Very happy with this purchase. Ships quickly. Almost perfect.
+461,B00CFM0P7W,A12653XYZ,coffeejunkie,19,23,4,1343606400,Really liked it,Good value for money. Freshness was good. Will probably reorder.
+462,B001EQ54ZS,A12697XYZ,crunchmaster,15,17,4,1343692800,Pretty good,Great taste and quality. Freshness was good. Would buy again.
+463,B001E4KFG0,A12721XYZ,pantrypal,3,4,4,1343779200,Almost perfect,Very happy with this purchase. Freshness was good. Almost perfect.
+464,B00171APVA,A12730XYZ,nutritionnerve,19,24,5,1343865600,Highly recommend,Exceeded my expectations. Perfectly fresh. Highly recommend to everyone.
+465,B006K2ZZ7K,A12736XYZ,amazon_shopper,1,5,4,1343952000,Good buy,Solid product overall. Ships quickly. Just a bit pricey.
+466,B00813GRG4,A12747XYZ,kitchenqueen,18,18,3,1344038400,So-so,It's okay. Nothing special about it. Probably won't repurchase.
+467,B006K2ZZ7K,A12759XYZ,organicmom,14,14,5,1344124800,Love it!,Best grocery I've ever tried. The flavor is incredible. Five stars all the way!
+468,B001EQ54ZS,A12783XYZ,teatime_tina,20,20,3,1344211200,Decent enough,Middle of the road. Nothing special about it. Works fine but nothing exciting.
+469,B001E4KFG0,A12827XYZ,tastyreviewer,15,19,3,1344297600,Average,"Not bad, not great. Okay for the price. Met basic expectations."
+470,B0026KXU2Q,A12863XYZ,fitnessfreak,12,12,4,1344384000,Pretty good,Very happy with this purchase. The flavor is quite good. Almost perfect.
+471,B002GTTXGE,A12874XYZ,organicmom,8,13,4,1344470400,Really liked it,Great taste and quality. Packaging could be improved. Would buy again.
+472,B001GVISJM,A12901XYZ,snacklover99,19,19,1,1344556800,Waste of money,Do not buy! Not fresh whatsoever. Arrived damaged and tasted awful.
+473,B00171APVA,A12916XYZ,pantrypal,11,14,5,1344643200,Highly recommend,Perfect! Perfectly fresh. My whole family loves it. Won't buy anything else.
+474,B006K2ZZ7K,A12933XYZ,kitchenqueen,3,3,4,1344729600,Solid choice,Good value for money. Good but not perfect. Will probably reorder.
+475,B0019CW0HE,A12966XYZ,teatime_tina,9,11,5,1344816000,Amazing product,Amazing quality for the price. Worth every penny. Super fast delivery too.
+476,B00813GRG4,A13010XYZ,baking_betty,8,13,4,1344902400,Good buy,Very happy with this purchase. Freshness was good. Almost perfect.
+477,B001FA1NOU,A13056XYZ,organicmom,1,5,5,1344988800,Excellent!,Amazing quality for the price. Great for the whole family. Super fast delivery too.
+478,B0019CW0HE,A13082XYZ,petparentmike,8,11,3,1345075200,Not bad,"Not bad, not great. Flavor is average. Met basic expectations."
+479,B006WZJ2TK,A13108XYZ,foodnerd,7,12,5,1345161600,Best ever!,Best grocery I've ever tried. Worth every penny. Five stars all the way!
+480,B0019CW0HE,A13143XYZ,teatime_tina,17,18,5,1345248000,Excellent!,Exceeded my expectations. Worth every penny. Highly recommend to everyone.
+481,B00813GRG4,A13162XYZ,fitnessfreak,20,20,4,1345334400,Good buy,Great taste and quality. Good but not perfect. Would buy again.
+482,B0026KXU2Q,A13177XYZ,pantrypal,8,12,3,1345420800,Not bad,Average quality. Nothing special about it. There are better options out there.
+483,B003B3OOPA,A13196XYZ,tastyreviewer,19,19,5,1345507200,Amazing product,Amazing quality for the price. The flavor is incredible. Super fast delivery too.
+484,B001FA1NOU,A13227XYZ,gourmet_granny,13,13,3,1345593600,Not bad,Middle of the road. Nothing special about it. Works fine but nothing exciting.
+485,B000LQOCH0,A13237XYZ,baking_betty,4,6,5,1345680000,Highly recommend,Amazing quality for the price. Ships fast and well-packaged. Super fast delivery too.
+486,B000LQOCH0,A13283XYZ,tastyreviewer,20,20,5,1345766400,Best ever!,Best grocery I've ever tried. Perfectly fresh. Five stars all the way!
+487,B003B3OOPA,A13284XYZ,coffeejunkie,2,3,3,1345852800,Decent enough,It's okay. Okay for the price. Probably won't repurchase.
+488,B006WZJ2TK,A13324XYZ,crunchmaster,0,0,5,1345939200,Highly recommend,Perfect! Ships fast and well-packaged. My whole family loves it. Won't buy anything else.
+489,B006K2ZZ7K,A13359XYZ,snacklover99,0,5,5,1346025600,Excellent!,Amazing quality for the price. Perfectly fresh. Super fast delivery too.
+490,B0019CW0HE,A13360XYZ,sweettoothsally,3,6,5,1346112000,Excellent!,Exceeded my expectations. Perfectly fresh. Highly recommend to everyone.
+491,B00CFM0P7W,A13393XYZ,healthyeats2020,14,19,3,1346198400,Not bad,Average quality. Flavor is average. There are better options out there.
+492,B00CFM0P7W,A13427XYZ,amazon_shopper,11,12,4,1346284800,Almost perfect,Very happy with this purchase. Packaging could be improved. Almost perfect.
+493,B001FA1NOU,A13438XYZ,crunchmaster,4,5,5,1346371200,Excellent!,Best grocery I've ever tried. The flavor is incredible. Five stars all the way!
+494,B001E4KFG0,A13485XYZ,coffeejunkie,12,17,4,1346457600,Pretty good,Very happy with this purchase. The flavor is quite good. Almost perfect.
+495,B007VTCCL2,A13502XYZ,foodcritic_jay,20,20,4,1346544000,Pretty good,Really good product. Good but not perfect. Only minor complaint is the packaging.
+496,B001EQ54ZS,A13506XYZ,nutritionnerve,8,11,2,1346630400,Expected more,Disappointed with this purchase. Not fresh at all. Not what I expected.
+497,B000LQOCH0,A13551XYZ,snacklover99,16,18,3,1346716800,It's okay,"Not bad, not great. It arrived on time. Met basic expectations."
+498,B00CFM0P7W,A13591XYZ,amazon_shopper,3,5,5,1346803200,Amazing product,Amazing quality for the price. The flavor is incredible. Super fast delivery too.
+499,B007VTCCL2,A13599XYZ,organicmom,16,17,2,1346889600,Below average,Below average quality. Overpriced for what it is. Won't be buying again.
+500,B001EQ54ZS,A13622XYZ,coffeejunkie,6,11,4,1346976000,Almost perfect,Solid product overall. The flavor is quite good. Just a bit pricey.
