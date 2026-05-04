@@ -1,7 +1,6 @@
 # =========================================================
 # USA HOUSING PRICE PREDICTION — FULL PROJECT (CLEAN)
 # =========================================================
-
 # ===== 1. IMPORTS =====
 import pandas as pd
 import numpy as np
